@@ -1,0 +1,51 @@
+header .container{
+    color: #AAA;
+    padding: 20px;
+    border-bottom: 1px solid #999;
+}
+
+header .container h3{
+    margin: 29px 0;
+    font-size: 29.5px;
+    font-weight: bold;
+}
+
+.bookMarks{
+    background-color: #EEEEEE;
+    border-radius: 5px;
+}
+
+section{
+    border-bottom: 1px solid #999;  
+}
+
+.bookMarks p{
+    background-color: #ffb2b2;
+    color: #6d0000;
+    padding: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    display: none;
+}
+
+.btn-primary{
+    background-color: #1167c4;
+    color: white;
+    border: 1px solid #1167c4;
+}
+
+.btn-primary:hover{
+    background-color: #0A3F77;
+    border: 1px solid #0A3F77;
+}
+
+footer p{
+    color: #aaa;
+    font-weight: bold;
+    margin: 15px auto;
+}
+
+.webSites{
+    background-color: #F4F4F4;
+    display: none;
+}
